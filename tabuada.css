@@ -1,0 +1,33 @@
+*{
+    font-size: 20px;
+}
+
+h1,ins{
+    font-size: 50px;
+    color: #CBD99A;
+}
+
+body{
+    background-color: #67A64B;
+    padding: 15px;
+    text-align: center; 
+}
+
+section{
+    background-color: white;
+    border-radius: 15px;
+    margin: auto;
+    height: 400px;
+    width: 500px;
+    padding: 15px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+p{
+    text-align: left;
+}
+
+footer{
+    height: 5px;
+}
